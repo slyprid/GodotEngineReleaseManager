@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GERM (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "GERM (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
